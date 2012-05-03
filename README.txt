@@ -1,1 +1,1 @@
-Need to test Facebook tab with http / https before proceeding
+Tested on facebook and need to make clean urls work for ssl
