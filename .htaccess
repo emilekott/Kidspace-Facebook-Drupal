@@ -56,7 +56,8 @@ DirectoryIndex index.php index.html index.htm
 <IfModule mod_rewrite.c>
   RewriteEngine on
 
-RewriteRule ^content/test$ /\~kidspac1/index.php?q=content/test [R=301,L]
+RewriteRule ^content/application$ /\~kidspac1/index.php?q=content/application-become-hobbledown-team-member [R=301,L]
+
 
   # Block access to "hidden" directories whose names begin with a period. This
   # includes directories used by version control systems such as Subversion or
