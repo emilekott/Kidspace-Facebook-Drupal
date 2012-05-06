@@ -1,0 +1,13 @@
+; $Id: 
+name = Webform table element
+description = Table element for the webform module.
+core = 7.x
+package = Webform
+
+dependencies[] = webform
+; Information added by drupal.org packaging script on 2012-02-22
+version = "7.x-1.4"
+core = "7.x"
+project = "webform_table_element"
+datestamp = "1329904251"
+
